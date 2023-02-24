@@ -1,0 +1,14 @@
+TITLE: Normalization and Database Design Project (Data Management - Applications, C170 PA)
+
+PURPOSE:
+
+VERSION & DATE: Version 1.0, 11/27/2021
+
+AUTHOR: Lydia Strough, WGU#002452624
+
+PROGRAMMING ENVIRONMENT:
+    OPERATING SYSTEM: MacOS
+    PROGRAMMING LANGUAGE: SQL
+    RELATIONAL DBMS: MySQL (SQL Fiddle)
+
+DIRECTIONS: Read the "" file for further information about the task. View "" file for the final project. 
