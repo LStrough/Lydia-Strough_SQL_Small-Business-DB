@@ -11,4 +11,4 @@ PROGRAMMING ENVIRONMENT:
     PROGRAMMING LANGUAGE: SQL
     RELATIONAL DBMS: MySQL (SQL Fiddle)
 
-DIRECTIONS: Read the "" file for further information about the task. View "" file for the final project. 
+DIRECTIONS: Read the "C170_PA_Rubric.pdf" file for further information about the task. View "" file for the final project. 
